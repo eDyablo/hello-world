@@ -1,2 +1,5 @@
 # hello-world
-For learning
+
+Hi there!
+
+Ed here. I like TDD.
